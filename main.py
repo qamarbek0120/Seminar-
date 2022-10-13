@@ -1,5 +1,1 @@
-def print(param):
-    pass
-
-
-print('test')
+name = input("Enter the name: ")
